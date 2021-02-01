@@ -35,7 +35,6 @@ class Main {
   {
     if (150.0 >= aveSpendings)
     {
-      
       return "Good job regulating your spending!";
 
     }else{
