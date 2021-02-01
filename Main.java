@@ -43,7 +43,6 @@ class Main {
       return "Good effort, but over the next 3 months try spending about $" + difference + " less, in order to regulate your spending.";
     }
   }
-
   
 
 }
